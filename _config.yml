@@ -6,19 +6,18 @@
 #
 
 title: Praha 13 # To co je napsané na tabu ve kterém je stránka.
-email: info@pirati.cz
-description: >-
-  Zde potří popis webu například stránka místního sdružení. Zobrází se například ve feed/rss nebo ve výsledcích googlu.
+email: praha13@pirati.cz
+description: Piráti na Praze 13
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
 keywords: piráti, česká pirátská strana, svoboda, demokracie, název města, zkratka města, místní združení,
 
 administrator:
-  email: TADY_DEJTE_VLASTNI_MAIL@pirati.cz # mail kam pujdou chybove vystupy
+  email: tomas.murnak@pirati.cz # mail kam pujdou chybove vystupy
 
 organization:
-  name: Jmeno skupiny používající web - př Pirástá strana
-  shortName: Název skupiny
-  email: example@pirati.cz
+  name: Místní sdružení Pirátu na Praze 13
+  shortName: Praha 13
+  email: praha13@pirati.cz
   phone: +420 777 123 456 789
   address: |
     Řehořova 943/19,
@@ -36,34 +35,30 @@ organization:
 contactSummaryItems:
   - type: organizationEmail
   - type: organizationRedmineLink
-  - type: organizationPhone
   - type: organizationTransparentAccount
     includeMoreLink: true
   - type: organizationDataBox
   - type: piratiRootWebsite
-  - type: custom
-    iconClass: fa fa-envelope
-    label: Vlastní řádek tabulky
-    body: <a href="http://example.com">link</a>
 
 calendar:
   # For nice look of the calendar, make sure you get Google Calendar API key
   # and start the app with the env var `GOOGLE_CALENDAR_APIKEY=[myapikey] bundle exec jekyll serve`.
   # For deployment, contact website administrator to set you env variable.
-  title: Celostátní kalendář
-  id: nk73m1m89vhf5g2vojp6tnqe58@group.calendar.google.com
-  page: https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=nk73m1m89vhf5g2vojp6tnqe58%40group.calendar.google.com&ctz=Europe%2FPrague&amp;color=%232952A3
+  apiKey: AIzaSyBdjZxz4r9lPyD3CiSxQa6G3mf47ezI7Ks
+  id: rm0h4oqjk2j2o0615sc4d1slfk@group.calendar.google.com
+  title: "Celopražský kalendář"
+  page: "https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;showDate=0&amp;showPrint=0&amp;showTabs=0&amp;showCalendars=0&amp;showTz=0&amp;mode=AGENDA&amp;height=500&amp;wkst=2&amp;hl=cs&amp;bgcolor=%23FFFFFF&amp;src=rm0h4oqjk2j2o0615sc4d1slfk%40group.calendar.google.com&amp;color=%23B1365F&amp;src=lpvmfpogihrca3lqs9p2udae0k%40group.calendar.google.com&amp;color=%238D6F47&amp;ctz=Europe%2FPrague"
 
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/ceska.piratska.strana/
-  profilePageName: Nějaký název FB profilu
+  profilePage: https://www.facebook.com/ZeleniaPiratipro13/
+  profilePageName: Zelení a Piratí pro 13
   appId: 1526197851008996
 
 twitter:
   loadSDK: true
-  profile: PiratskaStrana
+  profile: piratipraha
 
 instagram:
   profilePage: https://www.instagram.com/pirati.cz/
@@ -75,10 +70,9 @@ flicker:
   profilePage: https://www.flickr.com/photos/pirati/
 
 forum:
-  page: https://forum.pirati.cz/
-
+  page: https://forum.pirati.cz/viewforum.php?f=791&sid=b8c2fba6a7bcfd48d88121d62d0c0899
 github:
-  url: https://github.com/pirati-web/example.pirati.cz/
+  url: https://github.com/pirati-web/praha13.pirati.cz/
   branch: master
 
 #
