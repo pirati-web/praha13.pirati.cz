@@ -5,7 +5,7 @@
 # technické nastavení
 #
 
-title: Praha 13 # To co je napsané na tabu ve kterém je stránka.
+title: Pirati Praha 13 # To co je napsané na tabu ve kterém je stránka.
 email: praha13@pirati.cz
 description: Místní sdružení Pirátu na Praze 13
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
@@ -33,6 +33,22 @@ organization:
 # 1) předdefinované typy (organizationEmail, organizationRedmineLink, organizationPhone, organizationTransparentAccount, organizationDataBox, piratiRootWebsite)
 # 2) vlastní řádky - zde je nutné jako type dát `custom` a vyplnit `label` a `body`
 contactSummaryItems:
+  - type: custom
+    iconClass: fa fa-desktop
+    label: Webové stránky
+    body: <a href="http://zeleniapiratipro13.cz/">Zelení a Piráti pro 13</a>
+  - type: custom
+    iconClass: fa fa-facebook
+    label: Facebook
+    body: <a href="https://www.facebook.com/PiratiPraha13/?fref=ts">Piráti Praha 13</a>
+  - type: custom
+    iconClass: fa fa-facebook
+    label: Facebook
+    body: <a href="https://www.facebook.com/ZeleniaPiratipro13/?fref=ts">Zelení a Piráti pro 13</a>
+  - type: custom
+    iconClass: fa fa-youtube
+    label: YouTube kanál
+    body: <a href="https://www.youtube.com/channel/UCvU4OQ-FgKUU9vEZ73RS9tQ/videos">Zelení a Piráti pro 13</a>
   - type: organizationEmail
   - type: organizationRedmineLink
   - type: organizationTransparentAccount
