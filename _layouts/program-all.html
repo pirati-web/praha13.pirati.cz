@@ -1,0 +1,15 @@
+---
+layout: blank-article
+---
+
+{% include page-header.html headline=page.title %}
+{% assign programCategories = site.program | where: "campaignCategoryUid", page.campaignCategoryUid | sort:"order" %}
+
+<div class="c-emphasized-text c-content-block">{{ content }}</div>
+
+{% for category in programCategories %}
+
+	<h2> {{ category.title }}</h2>
+	<p>{{ category.content }}</p>
+
+{% endfor %}
