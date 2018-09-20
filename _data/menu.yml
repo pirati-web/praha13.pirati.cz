@@ -10,15 +10,21 @@ top:
     icon: "fa fa-newspaper-o"
 
 main:
-  - link: /aktuality/
+  - link: http://zeleniapiratipro13.cz/
     name: Aktuality
     match: aktuality
   - link: /lide/
-    name: O nás
+    name: Naši lidé
     match: lide
+  - link: /program/
+    name: Priority
+    match: program
   - link: /komunalni-volby/
-    name: Komunální volby
+    name: Kandidátka
     match: komunalni-volby
+  - link: /zapoj-se/
+    name: Zapoj se
+    match: zapoj-se
   - link: /kontakt/
     name: Kontakt
     match: kontakt
@@ -36,7 +42,7 @@ bottom:
         name: Lidé
       - link: /komunalni-volby/
         name: Volby
-      - link: /aktuality/
+      - link: http://zeleniapiratipro13.cz/
         name: Aktuality
   - class: small-12 medium-4
     title: Otevřenost
