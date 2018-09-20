@@ -6,6 +6,7 @@ leader:
   uid: tomas.murnak
   age: 38
   profession: softwarový operátor, zastupitel Prahy 13
+  party: Piráti
   description: "O komunální politiku se zajímá přes 10 let. Aktivně se do ní zapojil v komunálních volbách do zastupitelstva městské části Prahy 13 jako zástupce České pirátské strany na kandidátce Strany zelených v roce 2010. Čtyři roky působí jako opoziční zastupitel na městské části.
 "
 
@@ -13,11 +14,14 @@ head: # čelo kandidátky (bez leadera) / lidé kteří mají fotku a _people/jm
   - uid: zuzana.drhova
     age: 55
     profession: zastupitelka na Praze 13, sociální ekoložka
+    party: Zelení
   - uid: vaclav.hrdlicka
     age: 38
+    party: Piráti
     profession: manažer v telekomunikační společnosti
   - uid: filip.ryant
     age: 34
+    party: Zelení
     profession: web developer
   - uid: jiri.koudelka
     age: 37 

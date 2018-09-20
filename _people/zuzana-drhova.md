@@ -5,7 +5,6 @@ titles:
   before: Ing. 
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
 img: people/zuzana-drhova.jpg   # 165 x 220
 description:      	# kratký popis, max 160 znaků
 mail:

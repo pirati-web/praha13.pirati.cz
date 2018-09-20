@@ -10,17 +10,28 @@ contentSize: default
 ---
 
 <div class="o-section-header o-section-header--indented">
-  <h1 class="t-h2-alt">Přidejte se</h1>
+  <h1 class="t-h2-alt"> Podpořte piráty na Třináctce </h1>
 </div>
 
-Zajámá vás co piráti dělají? Ozvěte se Jakubu Pirátovy nebo přijďte k nám
-na schůzi kterou pořádáme v XY.
+Pro peníze to rozhodně neděláme. Naší hlavní motivací je snaha o zásadní změnu úrovně i vnímání komunální politiky a samozřejmě také snaha zvelebit místo, kde sami od dětství žijeme. Naše aktivita je ryze dobrovolnická, pokud nepočítáme zákonnou měsíční odměnu dvěma zastupitelům ve výši 1500,- Kč. Naší hlavní investicí jsou desítky hodin osobního času, který mimo zaměstnání a rodinu komunální politice věnujeme.
 
-Chcete přístup k pirátskym systémum? Regitrujte se na nalodění. TODO odkaz.
+Jakkoliv nám spíše než peníze schází další nadšenci jako jsme my, jsou v zásadě 2 oblasti, ve kterých by finanční prostředky pomohli naše počínání výrazně zefektivnit. Konzultace, průzkumy, posudky
 
-Financí dary můžete posílat na [dary](https://dary.pirati.cz).
-Pokud chcete darovat přimo naší MS poradtě se s XY
+V rámci různých kauz, které na Praze 13 řešíme, se často dostáváme do situace, jejímž optimálním řešením by byla odborná konzultace, případně nezávislý průzkum či posudek. Nejčastěji nám chybí odborný pohled právní, ale například v souvislosti s výstavbou jsme v minulosti často postrádaly nezávislá odborná stanoviska z oblasti dopravy, ekologie, akustiky...
+
+Jako opoziční strana bohužel nemůžeme využít existujícího odborného zázemí úřadu městské části. Pokud je to jen trochu možné, pokoušíme se proto tyto konzultace zajišťovat u kompetentních kolegů v rámci České pirátské strany. Nicméně i oni mají svoji agendu a i oni dělají politiku na dobrovolnické úrovni, takže priority se prostě občas nepotkají.
 
 
-Strany našeho kraje jsou TODO.
+<div class="o-section-header o-section-header--indented">
+  <h1 class="t-h2-alt"> Propagace </h1>
+</div>
 
+
+
+Jakkoliv jsou naše aktivity lidmi zpravidla vnímány velmi pozitivně, bez toho, abychom byli dobře vidět a slyšet, je velice obtížné zapojovat do věcí veřejných maximum obyvatel, a zároveň tak oslovovat i potenciální voliče.
+
+Díky internetu a sociálním sítím je naštěstí komunikace jednodušší, než byla kdykoliv předtím, ale stále má svá značná omezení. Je nám pak líto, když při osobních rozhovorech slýcháme věty typu: “...ale lidi tohle moc nevědí...”, “...tak to Vás budu podporovat...“, ...škoda, že Vás není více vidět...” atp.
+
+Specifickým případem jsou potom volby. To, že dlouhodobě odvádíte dobrou práci, v rámci které důsledně naplňujete svá předchozí prohlášení, je bohužel jen zlomek předpokladu úspěchu. Dobrým (či možná spíše špatným) příkladem toho, že zásadním prostředkem je především dostatek kapitálu, je politické strana Andreje Babiše. ANO mělo ještě pár měsíců před svými prvními volbami v roce 2013 preference 0,5 %, přičemž po své masivní kampani nakonec získalo téměř 20 %.
+
+Pokud je Vám naše aktivita sympatická a rádi byste nás v ní podpořili i finančně, můžete tak učinit příspěvkem na transparentní účet České Pirátské strany a ke svému daru přidat vzkaz "Pirátům z Prahy 13". Viz též <a href="https://dary.pirati.cz/" target="_blank">https://dary.pirati.cz/</a>

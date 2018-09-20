@@ -5,6 +5,7 @@ titles:
   before: 
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
+- clenove
 - kontaktni_osoba
 img: people/tomas-murnak.jpg   # 165 x 220
 description: zastupitel městské části Praha 13 za Piráty             	# kratký popis, max 160 znaků

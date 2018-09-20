@@ -4,8 +4,7 @@ name:     Filip Ryant  	# běžně používáné jméno
 titles:
   before: Mgr. 
   after:
-category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
+category: 
 img: people/filip-ryant.jpg   # 165 x 220
 description:     	# kratký popis, max 160 znaků
 mail:

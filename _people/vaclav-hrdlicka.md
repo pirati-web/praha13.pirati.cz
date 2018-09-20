@@ -3,7 +3,7 @@ uid: vaclav.hrdlicka
 name:     Václav Hrdlička  	# běžně používáné jméno
 fullname: Mgr. Václav Hrdlička, DiS.	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
-- praha
+- clenove
 img: people/vaclav-hrdlicka.jpg   # 165 x 220
 description:     	# kratký popis, max 160 znaků
 mail:
