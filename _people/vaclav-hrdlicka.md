@@ -5,7 +5,7 @@ fullname: Mgr. Václav Hrdlička, DiS.	# jméno s tituly etc.
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 img: people/vaclav-hrdlicka.jpg   # 165 x 220
-description:     	# kratký popis, max 160 znaků
+description: 1. místopředseda MS Piráti Praha 13, zastupitel městské části Praha 13 	# kratký popis, max 160 znaků
 mail:
 - vaclav.hrdlicka@pirati.com
 mob:
