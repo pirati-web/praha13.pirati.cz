@@ -7,7 +7,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 img: people/vaclav-hrdlicka.jpg   # 165 x 220
 description: 1. místopředseda MS Piráti Praha 13, zastupitel městské části Praha 13 	# kratký popis, max 160 znaků
 mail:
-- vaclav.hrdlicka@pirati.com
+- vaclav.hrdlicka@pirati.cz
 mob:
 profiles:
   github:       
