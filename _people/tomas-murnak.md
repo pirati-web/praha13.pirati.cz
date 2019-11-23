@@ -7,8 +7,9 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - kontaktni_osoba
+- pms
 img: people/tomas-murnak.jpg   # 165 x 220
-description: zastupitel městské části Praha 13 za Piráty             	# kratký popis, max 160 znaků
+description: předseda Pirátů Prahy 13, zastupitel zastupitel Magistrátu hl. m. Prahy   	# kratký popis, max 160 znaků
 mail:
 - tomas.murnak@pirati.cz
 mob:			  +420 604 330 995
