@@ -4,6 +4,7 @@ name: Michaela Beránková  	# běžně používáné jméno
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - kontaktni_osoba
+- minikodo
 img: people/michaela-berankova.jpg   # 165 x 220
 description: koordinátor Místního sdružení Pirátů na Praze 13 # kratký popis, max 160 znaků
 mail: michaela.berankova@pirati.cz
