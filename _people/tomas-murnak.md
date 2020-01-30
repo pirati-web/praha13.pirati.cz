@@ -7,6 +7,7 @@ titles:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - pms
+ordpms: 1
 img: people/tomas-murnak.jpg   # 165 x 220
 description: předseda Pirátů Prahy 13, zastupitel Magistrátu hl. m. Prahy   	# kratký popis, max 160 znaků
 mail:
