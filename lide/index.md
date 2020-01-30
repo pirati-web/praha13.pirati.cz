@@ -8,7 +8,6 @@ groups:
   - name: Místní předsednictvo
     category: pms
     sort: ordpms
-groups:
   - name: Koordinátoři místního sdružení
     category: minikodo
 ---
