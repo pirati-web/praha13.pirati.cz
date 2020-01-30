@@ -10,7 +10,7 @@ img: people/vaclav-hrdlicka.jpg   # 165 x 220
 description: 1. místopředseda Pirátů Prahy 13, zastupitel MČ Praha 13 	# kratký popis, max 160 znaků
 mail:
 - vaclav.hrdlicka@pirati.cz
-mob:
+mob: +420603404991
 profiles:
   github:       
   facebook: 
