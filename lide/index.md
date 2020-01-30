@@ -1,12 +1,13 @@
 ---
 layout: members
 title: O nás
-description: Členové a příznivci jsou to dělá Českou pirátskou stranu silnou. Seznamte se Piráty na Praze 5.
+description: Členové a příznivci jsou to dělá Českou pirátskou stranu silnou. Seznamte se Piráty na Praze 13.
 keywords: lidé, členové, piráti, pirátky, příznivci
 viewMode: grouped # or alltogether
 groups:
-  - name: Členové
+  - name: Místní předsednictvo
   - category: pms
+  - sort: ordpms
 ---
 
 Česká pirátská strana je liberální, demokratická, středová strana s důsledným protikorupčním programem. Naším cílem je prosazovat náš program, ať už jsme v koalici nebo v opozici.
