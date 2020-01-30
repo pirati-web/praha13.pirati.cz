@@ -8,6 +8,9 @@ groups:
   - name: Místní předsednictvo
     category: pms
     sort: ordpms
+groups:
+  - name: Koordinátoři místního sdružení
+    category: minikodo
 ---
 
 Česká pirátská strana je liberální, demokratická, středová strana s důsledným protikorupčním programem. Naším cílem je prosazovat náš program, ať už jsme v koalici nebo v opozici.
