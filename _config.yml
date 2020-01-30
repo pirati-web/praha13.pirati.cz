@@ -68,8 +68,8 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/ZeleniaPiratipro13/
-  profilePageName: Zelení a Piratí pro 13
+  profilePage: https://www.facebook.com/PiratiPraha13/
+  profilePageName: Pirati Praha 13
   appId: 1526197851008996
 
 twitter:
@@ -77,10 +77,7 @@ twitter:
   profile: piratipraha
 
 instagram:
-  profilePage: https://www.instagram.com/pirati.cz/
-
-gplus:
-  profilePage: https://plus.google.com/u/0/+piratskastrana
+  profilePage: www.instagram.com/piratipraha13
 
 flicker:
   profilePage: https://www.flickr.com/photos/pirati/
