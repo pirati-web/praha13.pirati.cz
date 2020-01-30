@@ -9,7 +9,7 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - pms
 ordpms: 3
 img: people/adam-kopetzky.jpg   # 165 x 220
-description: 2. místopředseda Pirátů na Praze 13, zastupitel MČ Praha 13    	# kratký popis, max 160 znaků
+description: 2. místopředseda Pirátů Prahy 13, zastupitel MČ Praha 13    	# kratký popis, max 160 znaků
 mail:
 - adam.kopetzky@pirati.com
 mob: +420720679251
