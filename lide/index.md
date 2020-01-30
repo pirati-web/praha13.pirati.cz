@@ -6,7 +6,7 @@ keywords: lidé, členové, piráti, pirátky, příznivci
 viewMode: grouped # or alltogether
 groups:
   - name: Členové
-  - category: clenove
+  - category: pms
 ---
 
 Česká pirátská strana je liberální, demokratická, středová strana s důsledným protikorupčním programem. Naším cílem je prosazovat náš program, ať už jsme v koalici nebo v opozici.
