@@ -15,10 +15,10 @@ administrator:
   email: tomas.murnak@pirati.cz, kol.petrx@gmail.com # mail kam pujdou chybove vystupy
 
 organization:
-  name: Místní sdružení Pirátu na Praze 13
+  name: Pirátské centrum v Praze
   shortName: Praha 13
   email: praha13@pirati.cz
-  phone: +420 777 123 456 789
+  phone: +420 606 168 306
   address: |
     Na Moráni 3,
     120 00 Praha 2
@@ -36,15 +36,11 @@ contactSummaryItems:
   - type: custom
     iconClass: fa fa-desktop
     label: Webové stránky
-    body: <a href="http://zeleniapiratipro13.cz/">Zelení a Piráti pro 13</a>
+    body: <a href="http://praha13.pirati.cz/">Piráti Praha</a>
   - type: custom
     iconClass: fa fa-facebook
     label: Facebook
     body: <a href="https://www.facebook.com/PiratiPraha13/?fref=ts">Piráti Praha 13</a>
-  - type: custom
-    iconClass: fa fa-facebook
-    label: Facebook
-    body: <a href="https://www.facebook.com/ZeleniaPiratipro13/?fref=ts">Zelení a Piráti pro 13</a>
   - type: custom
     iconClass: fa fa-youtube
     label: YouTube kanál
