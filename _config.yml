@@ -134,14 +134,6 @@ defaults:   # defaults values for collection scope
         - foto
         - personContact
         - people
-  -
-    scope:
-      path: "_program"
-    values:
-      layout: "program-post"
-      rbar:
-         - garant
-         - program
 
 emptyArray: []
 
