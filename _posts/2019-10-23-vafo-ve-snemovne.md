@@ -4,7 +4,7 @@ category:     blog
 tags:         vafo životní-prostředí
 layout:       post
 title:        "Vafo na půdě sněmovny"
-image:        posts/vavo-snemovna.jpg
+image:        posts/vafo-snemovna.jpg
 author:       klub Zelení a Piráti pro 13
 ---
 

@@ -4,7 +4,7 @@ category:     blog
 tags:         zastupitelstvo
 layout:       post
 title:        "Zpráva z jednání zastupitelstva 27. 2. 2019"
-image:        hurka2.jpg
+image:        posts/hurka2.jpg
 author:       klub Zelení a Piráti pro 13
 ---
 

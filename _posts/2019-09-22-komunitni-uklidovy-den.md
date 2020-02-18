@@ -4,7 +4,7 @@ category:     blog
 tags:         životní-prostředí
 layout:       post
 title:        "Komunitní úklidový den nejen po Pirátsku"
-image:        uklid.jpg
+image:        posts/uklid.jpg
 author:       klub Zelení a Piráti pro 13
 ---
 
