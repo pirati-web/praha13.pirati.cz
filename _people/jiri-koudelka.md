@@ -6,6 +6,7 @@ titles:
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
+- zmc
 img: people/jiri-koudelka.jpg   # 165 x 220
 description: 
 mail:
