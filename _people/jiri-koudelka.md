@@ -2,7 +2,7 @@
 uid: jiri.koudelka
 name:     Jiří Koudelka  	# běžně používáné jméno
 titles:
-  before:  
+  before:  bc.
   after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
