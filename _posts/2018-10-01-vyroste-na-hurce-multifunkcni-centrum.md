@@ -4,7 +4,7 @@ category:     blog
 tags:         praha-13 územní-plánování
 layout:       post
 title:        "Vyroste na Hůrce park nebo multifunkční centrum?"
-image:        hurka.jpg
+image:        posts/hurka.jpg
 author:       klub Zelení a Piráti pro 13
 ---
 
