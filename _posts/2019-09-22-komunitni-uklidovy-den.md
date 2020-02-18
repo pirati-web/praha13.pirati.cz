@@ -5,7 +5,7 @@ tags:         životní-prostředí
 layout:       post
 title:        "Komunitní úklidový den nejen po Pirátsku"
 image:        posts/uklid.jpg
-author:       klub Zelení a Piráti pro 13
+author:       Michaela Beránková
 ---
 
 Přes 100 kilogramů odpadků a vyplevelený a osázený poslední květník mezi vestibuly metra Nové Butovice. Uklidili jsme kus Česka a zažili Butovice jinak!
