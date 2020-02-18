@@ -1,5 +1,5 @@
 ---
-date:         2018-12-06
+date:         2019-12-06
 category:     blog
 tags:         školství
 layout:       post
