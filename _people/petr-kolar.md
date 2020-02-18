@@ -1,9 +1,6 @@
 ---
 uid: petr.kolar
 name:     Petr Kolář 	# běžně používáné jméno
-titles:
-  before: 
-  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat  
 - clenove
 - zmc

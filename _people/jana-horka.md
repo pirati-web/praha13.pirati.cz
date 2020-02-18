@@ -1,9 +1,6 @@
 ---
 uid: jana.horka
 name:     Jana Horká 	# běžně používáné jméno
-titles:
-  before: 
-  after:
 category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat  
 - clenove
 - zmc
