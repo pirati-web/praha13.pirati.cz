@@ -11,7 +11,6 @@ img: people/jiri-koudelka.jpg   # 165 x 220
 description: Zastupitel MČ Praha 13
 mail:
 - jiri.koudelka@pirati.cz
-mob: +420 604 159 440
 profiles:
   github:                 
 ---
