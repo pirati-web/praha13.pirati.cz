@@ -23,4 +23,4 @@ Mezi mé koníčky patří zejména fotografování, tvorba webových stránek v
 
 Co se mi povedlo? Ve spolupráci se zastupitelem hlavního města Prahy Tomášem Murňákem a místostarostkou Prahy 12 Evou Tylovou jsme prosadili na úrovni hlavního města Prahy realizaci zasakovacích průlehů. Více se o nich můžete dočíct v [tomto článku](https://praha.pirati.cz/pirati-prosadili-dalsi-krok-v-boji-proti-suchu.html). Zároveň jsem třináctkovou spojkou lidí zajímajících se o ochranu přírody, kdy se sdružujeme nejen na sociálních sítích, ale i osobně při komunitních akcích. 
 
-Pevně doufám, že se nám povede veškeré projekty, na kterých právě pracujeme, dotáhnout úšpěšně do cíle a společně uděláme Třináctku nejen hezčí, ale i udržitelnější. 
+Pevně doufám, že se nám povede veškeré projekty, na kterých právě pracujeme, dotáhnout úspěšně do cíle a společně uděláme Třináctku nejen hezčí, ale i udržitelnější. 
