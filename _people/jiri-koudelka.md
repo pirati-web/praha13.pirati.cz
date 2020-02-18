@@ -8,9 +8,10 @@ category:                 	# kategorie: rp, praha, vary, hradec, jmk, senat
 - clenove
 - zmc
 img: people/jiri-koudelka.jpg   # 165 x 220
-description: 
+description: Zastupitel MČ Praha 13
 mail:
 - jiri.koudelka@pirati.cz
+mob: +420 604 159 440
 profiles:
   github:                 
 ---
