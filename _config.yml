@@ -68,9 +68,6 @@ facebook:
   profilePageName: Pirati Praha 13
   appId: 1526197851008996
 
-twitter:
-  loadSDK: true
-  profile: piratipraha
 
 instagram:
   profilePage: www.instagram.com/piratipraha13
@@ -128,8 +125,6 @@ collections:
     permalink: /komunalni-volby/program/:path/
 
   # Sole purpose is to create candidate lists in separate files.
-  candidatelists:
-    output: false
 
 defaults:   # defaults values for collection scope
   -
