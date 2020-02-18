@@ -8,6 +8,8 @@ groups:
   - name: Místní předsednictvo
     category: pms
     sort: ordpms
+  - name: Zastupitelé městské části
+    category: zmc
   - name: Koordinátoři místního sdružení
     category: minikodo
 ---
