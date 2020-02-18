@@ -1,6 +1,6 @@
 ---
 uid: adam.kopetzky
-name:     Adam Kopetzky 	# běžně používáné jméno
+name:     Adam Kopetzký 	# běžně používáné jméno
 titles:
   before: 
   after:
