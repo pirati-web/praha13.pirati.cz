@@ -1,0 +1,13 @@
+---
+date:         2018-12-08
+category:     blog
+tags:         kampaň
+layout:       post
+title:        "Povolební uspořádání očima Zelených a Pirátů pro 13"
+image:        posts/hurka.jpg
+author:       klub Zelení a Piráti pro 13
+---
+
+S odstupem několika týdnů Vám chceme i touto cestou jménem Zelených a Pirátů pro 13 poděkovat za podporu, kterou jsme v říjnových komunálních volbách získali. S volebním výsledkem 25 % jsme druhé nejsilnější uskupení v zastupitelstvu. Náš zastupitelský klub má 11 členů, což je z 35 členného zastupitelstva téměř třetina. Cítíme to jako závazek vůči všem, kdo nás volili a kdo spolu s námi chtěli přinést konkrétní změny do života Prahy 13. Při rychlém uzavření koaliční smlouvy (již v pondělí ráno po volbách a bez jednání s námi) se však ukázalo, že většina zvolených zastupitelů žádné změny nechce. To se potvrdilo i na prvním jednání zastupitelstva, které se konalo 29. 10. 2018. Nově zvolené vedení městské části nepotřebovalo k uzavření koaliční dohody ani programové prohlášení, protože občanům neslibuje nic jiného, než že věci budou probíhat jako doposud. K jediné změně, ke které došlo, je částečná personální obměna, kdy k ODS a ANO 2011 bylo uskupení KDU-ČSL/STAN, které v radě naší městské části nahradilo ve volbách neúspěšnou ČSSD. Na prvním jednání zastupitelstva byli zvoleni starosta, místostarostové, radní a uvolnění předsedové výborů, což je celkem 12 z 35 uvolněných členů za ODS, Hnutí ANO, KDU-ČSL a STAN, kteří budou vykonávat zastupitelský mandát jako své zaměstnání. Měli by docházet každý den na radnici a na plný úvazek řešit záležitosti Prahy 13 dle domluvených kompetencí. Kontrolní výbor, který dlouhá léta vedl zástupce KSČM, převzala TOP 09, která má na tuto funkci též uvolněnou zastupitelku. Zelení a Piráti pro 13 zůstali v opozici, a to zatím bez možnosti působit ve výborech zastupitelstva, což je běžná opoziční role. Členství ve výborech znamená, že zastupitelé mají své běžné zaměstnání, ale jsou jednou měsíčně ze zákona uvolněni pro jednání výboru (zaměstnavatel jim musí účast na výboru umožnit). Na výborech se podrobně diskutují projednávané materiály, podněty zastupitelů či veřejnosti. Jsou to pracovní orgány zastupitelstva. Odmítání spolupráce vedení MČ se Zelenými a Piráty na úrovni výborů významně znesnadňuje výkon zastupitelského mandátu. Zastupitelé mimo výbory nemají stejný přístup k informacím jako ostatní a vše, co se týká zastupitelské práce, dělají ve svém volném čase.
+
+Jak tedy dále? Pokud nebudou Zelení a Piráti ve výborech, zbývá aktivní účast na jednáních zastupitelstva a podávání interpelací, a to i na základě vašich podnětů. Naše aktuální kontakty najdete na webových stránkách městské části v rubrice samospráva/zastupitelstvo.
