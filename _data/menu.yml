@@ -42,7 +42,7 @@ bottom:
         name: Volby
       - link: /lide/
         name: Lidé
-      - link: http://zeleniapiratipro13.cz/
+      - link: /aktuality/
         name: Aktuality
   - class: small-12 medium-4
     title: Otevřenost
