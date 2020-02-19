@@ -4,7 +4,7 @@ uid: prevence
 campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
 perex: Naše městská část potřebuje zásadní společenské a kulturní oživení. Za kulturou a zábavou dnes lidé jezdí především do jiných městských částí, v horším případě se pro mnohé stávají jedinými zdroji zábavy nákupní centra a restaurace. I tato zařízení samozřejmě hrají ve společenském životě svoji roli, rozhodně ale nemohou pokrýt potřeby většiny věkových a zájmových skupin. Z našeho pohledu je proto třeba, aby byl kulturní a komunitní život na Třináctce tak pestrý a různorodý, jak pestré a různorodé jsou osobnosti a zájmy lidí, kteří zde žijí. Chceme rozšířit kulturní nabídku jak skrze oživení programové nabídky KD Mlejn a Spolkového domu Stodůlky, tak větší podporou různých akcí, které známe z jiných městských částí (Zažít město jinak, sousedské slavnosti atp.). Oproti dnešku bychom chtěli výrazně více finančně podpořit také kulturní a společenské akce a aktivity místních zájmových spolků, občanských iniciativ i aktivních jednotlivců, protože čím více lidí se do společenského života zapojí, tím více budeme žít spolu a ne jen vedle sebe.
-order: 2
+order: 5
 ---
 
 * Výdaje městské části na kulturu musí být smysluplné a spravedlivé. Dnešní stav, kdy bezmála polovinu z rozpočtu naší MČ  na kulturu spolkne TV Praha 13, je pro nás neakceptovatelný. Oblast kultury a komunitního života vyloženě vybízí k participativnímu rozpočtování, kdy sami občané mohou spolurozhodovat o tom, jakým způsobem využít společné finanční prostředky.
