@@ -1,10 +1,11 @@
 ---
-title: Otevřená radnice – Už žádné změny za Vašimi zády
+title: Transparentní a otevřená radnice
 uid: transparence
 campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
 perex: >
-Chceme zásadním způsobem zvýšit kvalitu informování občanů o dění na radnici a posílit jejich podíl na rozhodování o dalším rozvoji Prahy 13. Odmítáme zavedenou praxi, kdy zásadní změny v naší městské části probíhají bez zapojení obyvatel a občanských spolků (typicky např. smlouvy s developery, rekonstrukce Centrálního parku atp.). Budeme prosazovat aktivní sdílení objektivních informací, aby se lidé o důležitých věcech nedozvídali pokoutně, mohli se informovaně rozhodovat a měli možnost lépe hlídat své radní a zastupitele. Prostor pro pozitivní změny je v této oblasti obrovský, což jen dokládá anticena Zavřeno, kterou si radnice v tomto volebním období vysloužila.
+    Možnost získat snadno a rychle jakékoliv informace ze samosprávy své městské části a mít dostatek možností se do jejího chodu přímo zapojit, považujeme za naprostý základ života prosperující obce 21. století.
+
 order: 1
 ---
 
