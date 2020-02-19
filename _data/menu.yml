@@ -38,6 +38,8 @@ bottom:
   - class: small-12 medium-4
     title: Makáme
     links:
+      - link: /komunalni-volby/
+        name: Volby
       - link: /lide/
         name: Lidé
       - link: http://zeleniapiratipro13.cz/
