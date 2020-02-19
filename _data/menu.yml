@@ -17,7 +17,7 @@ main:
     name: Naši lidé
     match: lide
   - link: /program/
-    name: Programové priority
+    name: Priority
     match: program
   - link: /komunalni-volby/
     name: Kandidátka
