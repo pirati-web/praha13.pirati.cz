@@ -19,6 +19,9 @@ main:
   - link: /program/
     name: Programové priority
     match: program
+  - link: /komunalni-volby/
+    name: Kandidátka
+    match: komunalni-volby
   - link: /zapoj-se/
     name: Zapoj se
     match: zapoj-se
