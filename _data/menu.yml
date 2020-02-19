@@ -17,7 +17,7 @@ main:
     name: Naši lidé
     match: lide
   - link: /program/
-    name: Priority
+    name: Programové priority
     match: program
   - link: /zapoj-se/
     name: Zapoj se
