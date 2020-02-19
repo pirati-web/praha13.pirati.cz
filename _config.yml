@@ -116,6 +116,10 @@ collections:
   people:
     output: true
     permalink: /lide/:path/
+  program:
+    output: true
+    permalink: /komunalni-volby/program/:path/
+
 
   # Sole purpose is to create candidate lists in separate files.
 
