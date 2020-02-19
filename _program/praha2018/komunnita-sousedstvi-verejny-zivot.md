@@ -1,0 +1,16 @@
+---
+title: Komunita, sousedství, kulturní život
+uid: prevence
+campaignCategoryUid: praha2018
+campaignGroupUid: volby-2018
+perex: Naše městská část potřebuje zásadní společenské a kulturní oživení. Za kulturou a zábavou dnes lidé jezdí především do jiných městských částí, v horším případě se pro mnohé stávají jedinými zdroji zábavy nákupní centra a restaurace. I tato zařízení samozřejmě hrají ve společenském životě svoji roli, rozhodně ale nemohou pokrýt potřeby většiny věkových a zájmových skupin. Z našeho pohledu je proto třeba, aby byl kulturní a komunitní život na Třináctce tak pestrý a různorodý, jak pestré a různorodé jsou osobnosti a zájmy lidí, kteří zde žijí. Chceme rozšířit kulturní nabídku jak skrze oživení programové nabídky KD Mlejn a Spolkového domu Stodůlky, tak větší podporou různých akcí, které známe z jiných městských částí (Zažít město jinak, sousedské slavnosti atp.). Oproti dnešku bychom chtěli výrazně více finančně podpořit také kulturní a společenské akce a aktivity místních zájmových spolků, občanských iniciativ i aktivních jednotlivců, protože čím více lidí se do společenského života zapojí, tím více budeme žít spolu a ne jen vedle sebe.
+order: 2
+---
+
+* Výdaje městské části na kulturu musí být smysluplné a spravedlivé. Dnešní stav, kdy bezmála polovinu z rozpočtu naší MČ  na kulturu spolkne TV Praha 13, je pro nás neakceptovatelný. Oblast kultury a komunitního života vyloženě vybízí k participativnímu rozpočtování, kdy sami občané mohou spolurozhodovat o tom, jakým způsobem využít společné finanční prostředky.
+* Zavedeme nový grantový systém pro kulturní a volnočasové aktivity, abychom podpořili také rozvoj amatérské živé kultury a komunitního života na Třináctce. Zajistíme včasné informování o možnostech této grantové podpory/veřejné podpory, aby k ní měli občané Prahy 13 rovný přístup.
+* Mlejn býval ve svém počátku oblíbenou scénou pro mnoho různorodých skupin celorepublikového významu. Byli bychom rádi, aby se kromě převažujících folkových koncertů a akrobatických představení (se vším respektem k nim) dostaly do programu ve větší míře také akce oslovující ostatní  posluchačské a divácké skupiny.
+* Chceme iniciovat a podporovat také větší množství menších komunitních akcí a aktivit, jako jsou různé bazárky, bleší trhy, vánoční zpívání koled, komunitní zahrada atp.
+* Namísto plánovaného komerčního záměru sjezdovky na Makču Pikču bychom v dané či jiné vhodné lokalitě raději viděli menší přírodní amfiteátr, který by mohl sloužit jak pro profesionální akce pořádané městskou části (divadlo, akustický koncert, besedy atp.), tak pro amatérská vystoupení a prezentace školních a zájmových sdružení (ZUŠ, ochotnické a pěvecké soubory atp.)
+* Nedílnou součástí fungující komunity jsou místní živnostníci (drobní prodejci, poskytovatelé služeb, řemeslníci atd.), a to jak z hlediska ekonomického (peníze zůstávají a pomáhají “doma”), tak i z hlediska společenského (navazování a upevňování vztahů). Chceme proto iniciovat a podporovat projekty, které pomohou jejich zviditelnění a dalším potřebám.
+* Chceme podporovat kulturní a komunitní aktivity přirozených společenských center, za které považujeme mj. školy, školky, knihovny, farnosti…
