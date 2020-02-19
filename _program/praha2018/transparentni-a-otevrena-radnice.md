@@ -1,5 +1,5 @@
 ---
-title: Transparentní a otevřená radnice
+title: Otevřená radnice – Už žádné změny za Vašimi zády
 uid: transparence
 campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
@@ -7,12 +7,11 @@ perex: >
     Možnost získat snadno a rychle jakékoliv informace ze samosprávy své městské části a mít dostatek možností se do jejího chodu přímo zapojit, považujeme za naprostý základ života prosperující obce 21. století.
 order: 1
 ---
-
-Možnost získat snadno a rychle jakékoliv informace ze samosprávy své městské části a mít dostatek možností se do jejího chodu přímo zapojit, považujeme za naprostý základ života prosperující obce 21. století.
-
-Bohužel, v rámci našich četných a různorodých pokusů o otevření radnice občanům od stávajícího vedení často slyšíme protiargument, že se lidé o věci veřejné stejně nezajímají. Náš pohled je takový, že i kdyby tomu tak doopravdy bylo, nese na tom svoji pasivitou výrazný podíl viny sama radnice.
-
-Přitom know-how samosprávně vyspělejších městských částí, měst a států, navíc ve spojení s technologiemi 21. století, přináší bezpočet možností jak efektivně zapojit občany do rozvoje jejich městské části nebo jak jim usnadnit komunikaci s úřadem. A tak můžeme jen spekulovat o tom, jestli je dnešní nedostatečná otevřenost radnice na Praze 13 důsledkem nezájmu, diletantského přístupu, nebo zda někomu vlastně nevyhovuje, když se lidé o věci veřejné moc nestarají a zbytečně moc toho neví.
-
-Co si Piráti představují pod pojmem transparentní a otevřená radnice <a href="https://docs.google.com/document/d/1zbilylSbOLpFh2U6l1bRkLdhrqg00afMlxF_X8n6EbI/edit?usp=sharing" target="_blank">se můžete dočíst zde</a>.
-
+Chceme zásadním způsobem zvýšit kvalitu informování občanů o dění na radnici a posílit jejich podíl na rozhodování o dalším rozvoji Prahy 13. Odmítáme zavedenou praxi, kdy zásadní změny v naší městské části probíhají bez zapojení obyvatel a občanských spolků (typicky např. smlouvy s developery, rekonstrukce Centrálního parku atp.). Budeme prosazovat aktivní sdílení objektivních informací, aby se lidé o důležitých věcech nedozvídali pokoutně, mohli se informovaně rozhodovat a měli možnost lépe hlídat své radní a zastupitele. Prostor pro pozitivní změny je v této oblasti obrovský, což jen dokládá anticena Zavřeno, kterou si radnice v tomto volebním období vysloužila.
+Otevřeme výbory a komise všem zastupitelům, zástupcům veřejnosti a odborníkům. Chceme, aby rozvoj Prahy 13 probíhal v souladu s demokratickými principy. Budeme proto prosazovat, aby komise a výbory byly otevřené zastupitelům všech zvolených stran, ale také zástupcům veřejnosti i odborníkům, nominovaným politickými kluby a místními občanskými spolky.
+Budeme prosazovat konec praxe zasedání zastupitelstva a jeho výborů v dopoledních hodinách, kdy je většina obyvatel v práci a přichází tak o možnost se jednání účastnit, případně se do něj přímo zapojit. Prosadíme online přenosy z jednání zastupitelstva na internetu. Když to jde jinde, proč ne u nás?
+Zajistíme zveřejňování videozáznamů z jednání zastupitelstva na webových stránkách, stejně jako zveřejňování zápisů a podkladů z jednání výborů zastupitelstva, rady městské části a jejích komisí. Občané i zastupitelé musí mít možnost vidět o čem a na základě čeho jimi zvolení zástupci rozhodují.
+Budeme prosazovat reformu zpravodaje STOP a vysílání místní televize. Vynaložené náklady musí odpovídat jejich účelu, tedy vyváženému informování o dění v městské části, kde zaznívají i hlasy opozice a občanů. Miliony, které dnes Praha 13 ročně vynakládá na televizní vysílání, použijeme jiným způsobem, např. na podporu spolkové činnosti, oživení veřejného prostoru, sportovní akce…
+Budeme iniciátory veřejných diskusí a participativního rozhodování. Budeme prosazovat, aby se minimálně v zásadních otázkách opírala rozhodnutí rady a zastupitelstva vždy o aktuální veřejné mínění a prokazatelný zájem občanů. Proaktivní sbírání podnětů skrze tematické veřejné besedy, občanské průzkumy a spolupráce s místními občanskými spolky mohou účinně předejít negativním důsledkům rozhodnutí „od stolu”.
+Zavedeme rozklikávací rozpočet až na úroveň faktur a zveřejníme podklady k udělování grantů a dotací.
+Prosadíme novou a moderní koncepci komunikace místního úřadu s obyvateli městské části. Zajistíme, aby veškeré dokumenty nutné pro styk s úřadem byly dostupné a jednoduše dohledatelné na webu městské  části. Chceme umožnit přihlášení k odběru relevantních zpráv z úřední desky či dalších praktických informací (údržba komunikací atp.). Je na občanovi, zda chce být informován mailem, SMS či skrze mobilní aplikaci.
