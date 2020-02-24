@@ -8,7 +8,7 @@ tags:         zivotni-prostredi
 
 layout:       post
 
-title:        "Piráti prosadili další krok v boji proti suchu. Praha bude na svých pozemcích realizovat tzv. zasakovací průlehy, které zabrání odtoku vody ."
+title:        "Piráti prosadili další krok v boji proti suchu. Praha bude na svých pozemcích realizovat tzv. zasakovací průlehy, které zabrání odtoku vody."
 
 image:        posts/tomas-eva.jpg
 
