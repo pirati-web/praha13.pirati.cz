@@ -3,7 +3,7 @@ date:         2019-11-28
 category:     blog
 tags:         zivotni-prostredi
 layout:       post
-title:        "Tomáš Murňák: musíme zamezit úbytku zahrádkářských kolonií "
+title:        "Tomáš Murňák: Musíme zamezit úbytku zahrádkářských kolonií "
 image:        posts/czs.jpg
 author:       Piráti
 ---
