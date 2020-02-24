@@ -1,5 +1,5 @@
 ---
-date:         201909-13
+date:         2019-09-13
 category: blog
 tags:         praha
 title:        "Zástupci města vypouštěli ježky zpět do volné přírody"
