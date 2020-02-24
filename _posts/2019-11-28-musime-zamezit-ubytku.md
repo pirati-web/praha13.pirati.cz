@@ -3,7 +3,7 @@ date:         2019-11-28
 category:     blog
 tags:         zivotni-prostredi
 layout:       post
-title:        "Piráti prosadili další krok v boji proti suchu. Praha bude na svých pozemcích realizovat tzv. zasakovací průlehy, které zabrání odtoku vody ."
+title:        "Tomáš Murňák: musíme zamezit úbytku zahrádkářských kolonií "
 image:        posts/czs.jpg
 author:       Piráti
 ---
