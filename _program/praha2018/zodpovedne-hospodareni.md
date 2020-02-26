@@ -3,6 +3,7 @@ title: Zodpovědné hospodaření
 uid: hospodareni
 campaignCategoryUid: praha2018
 campaignGroupUid: volby-2018
+image: zodpovedne-hospodareni.jpg
 perex: Prosadíme úsporné, účelné a průhledné hospodaření naší městské části. Nezřídka jsme svědky toho, že finance a majetek naší městské části nejsou spravovány s péčí řádného hospodáře, někdy dokonce nesou značné korupční riziko. Prodej a pronájem nemovitostí obálkovou metodou za zavřenými dveřmi. Rozdělování statisíců na kulturu, sport a volný čas bez jasných grantových pravidel. 6 milionů ročně za televizní vysílání s pochybným dosahem. Atd. atd. Víme, co a jak změnit.
 order: 8
 ---
