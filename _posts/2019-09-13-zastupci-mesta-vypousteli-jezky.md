@@ -5,6 +5,7 @@ tags:         praha
 title:        "Zástupci města vypouštěli ježky zpět do volné přírody"
 image:        posts/jezci.jpg
 author:       Jan Loužek
+authorId: jan.louzek
 ---
 Pirát Tomáš Murňák místopředseda výboru pro životní prostředí a Jana Plamínková, předsedkyně výboru pro životni prostředí , vypustili do volné přírody skupinu ježků východních. Akce se uskutečnila v Prokopském údolí, organizátorem byly Lesy hl. m. Prahy a Záchranná stanice hl. m. Prahy pro volně žijící živočichy.
 

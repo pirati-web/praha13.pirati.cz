@@ -6,6 +6,7 @@ layout:       post
 title:        "Klub Zelení a Piráti pro Prahu 13 navrhuje elektronizaci přihlášek do MŠ"
 image:        posts/pastelky.jpg
 author:       Petr Kolář
+authorId: petr.kolar
 ---
 
 Na základě mnoha podnětů občanů i vlastní zkušenosti vidíme ve stávajícím systému

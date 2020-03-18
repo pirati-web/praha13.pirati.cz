@@ -6,6 +6,7 @@ layout:       post
 title:        "PŘEDRAŽENÝ DOMOV PRO SENIORY? Hůř! Soukromá LDN financovaná radnicí."
 image:        posts/duchodak.jpg
 author:       Jana Horká, Václav Mucala
+authorId: jana.horka
 ---
 > “…v našem případě vloží městská část do zařízení čtvrt miliardy, takže následný provozovatel má snížené náklady o tuto investici,” odpovídal David Vodrážka na prosincovém zastupitelstvu roku 2015 opozičním zastupitelům. 
 

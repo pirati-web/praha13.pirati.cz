@@ -5,6 +5,7 @@ tags:         praha
 title:        "Místo Stalina pomník Krnáčové? Primátorka na poslední chvíli schválila projekt galerie na Letné."
 image:        posts/krnacova-metronom.jpg
 author:       Adam Zábranský, Jan Loužek
+authorId: jan.louzek
 ---
 
 V prostoru podzemí pod bývalým památníkem má vzniknout rozsáhlá galerie. Rozhodla tak Rada hlavního města Prahy. Megalomanský projekt má být realizován bez výběrového řízení, bez jakékoliv soutěže nebo diskuze s veřejností. Konzultován nebyl ani Institut plánování a rozvoje, ani Praha 7. Piráti s takovou hurá akcí nesouhlasí.

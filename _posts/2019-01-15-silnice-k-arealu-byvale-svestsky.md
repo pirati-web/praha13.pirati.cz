@@ -6,6 +6,7 @@ layout:       post
 title:        "Silnice k areálu bývalé firmy Švestka nepovede Svitákovou ulicí"
 image:        posts/svitakova.jpg
 author:       Michaela Beránková
+authorId: michaela.berankova
 ---
 
 Pozitivní konec měl dvouletý boj obyvatel Britské čtvrti o zrušení územního rozhodnutí a zastavení územního řízení ve věci nové cesty pro automobily k bývalému areálu společnosti Švestka, která měla vést místem, kde se v současné době nachází chodník mezi bytovými domy č.p. 2730 č.p. 2818. Plánovala ji společnost Finep za účelem propojení areálu firmy Švestka se zbývajícím územím Britské čtvrti. Esíčkovitá silnice měla vést úzkou ulicí přímo pod okny obyvatel těchto bytových domů i přes to, že bylo možné napojení areálu nedokončenou silnicí z Kuchařovy ulice nebo z ulice Bessemerovy.

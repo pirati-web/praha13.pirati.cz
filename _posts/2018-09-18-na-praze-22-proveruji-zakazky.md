@@ -6,6 +6,7 @@ layout:       post
 title:        "Cinknul radní na Praze 22 zakázku? Mimořádné zastupitelstvo rozhodne o jeho osudu"
 image:        cyklostezka-hajek.jpg
 author:       Ondřej Kallasch
+authorId: ondrej.kallasch
 ---
 
 V reakci na [zveřejněnou zprávu](https://www.novinky.cz/krimi/482670-statni-zastupce-kvuli-rekonstrukci-kuksu-obzaloval-ctyri-lidi.html) o obvinění randího Petra Semeniuka za rekonstrukci zámku Kuks iniciovala opozice svolání mimořádného zasedání. Na něm bude zastupitelstvo městské části jednat o setrvání pana Semeniuka v Radě a zároveň bude požadovat provedení forenzního auditu u všech zakázek v posledním volebním období. Hrozí totiž riziko, že předražená obnova Kuksu nebude jediná.

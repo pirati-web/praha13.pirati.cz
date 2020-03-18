@@ -6,6 +6,7 @@ layout:       post
 title:        "Rada Prahy 13 uzavíra výbory veřejnosti"
 image:        posts/slunecni-namesti.jpg
 author:       Václav Hrdlička
+authorId: vaclav.hrdlicka
 ---
 
 Na programu středečního (24.4.) dopoledního jednání zastupitelstva MČ Praha 13 je mezi standardními body jako jsou rozpočtové změny či informace o zhodnocení prostředků MČ také nenápadný bod Jednací řád výborů ZMČ. Hlavní změnou, kterou přináší, je uzavření jednání výborů pro veřejnost. Schválením této změny zůstává pro veřejnost otevřená pouze jednání zastupitelstva, které se však na rozdíl od většiny jiných MČ koná dopoledne, kdy je většina lidí v práci.

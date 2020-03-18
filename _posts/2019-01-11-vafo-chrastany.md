@@ -6,6 +6,7 @@ layout:       post
 title:        "Piráti napsali na MŽP: Řešme VAFO Chrášťany!"
 image:        posts/vafo.jpg
 author:       Jana Horká
+authorId: jana.horka
 ---
 
 Obracím se na Vás s problémem- dlouhodobým (spíš dlouholetým) – nesnesitelným zápachem z provozovny VAFO Chrášťany. Zápach je silný, obtěžující, není možné větrat a normálně dýchat bez neustálého odéru psích granulí. Provozovna má dlouhodobě nevyhovující systém záchytu odpadní vzdušiny.

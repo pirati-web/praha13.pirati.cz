@@ -6,6 +6,7 @@ layout:       post
 title:        "Piráti vydali mykopolitický atlas, aby se voliči neotrávili předvolební kampaní"
 image:        mykopoliticky-atlas.jpg
 author:       Adam Zábranský
+authorId: adam.zabransky
 ---
 
 Praha, 18. září 2018 – Piráti chápou, že pro voliče je období předvolební kampaně vysilující. Všude se setkávají s politickou reklamou, která je často otravná a občas dosahuje absurdních podob. Právě proto, aby se voliči z kampaně neotrávili, připravili pro ně Piráti [mykopolitický atlas](https://github.com/pirati-web/pirati.cz/blob/gh-pages/assets/pdf/mykopoliticky-atlas-prahy.pdf).
