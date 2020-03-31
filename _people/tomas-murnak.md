@@ -40,7 +40,7 @@ V červenci 2015 jsme na ustavující schůzi založili Místní sdružení Pir�
 
 Mezi mé zájmy patří: Informační technologie, politika, cyklistika a historická literatura.
 <p><b>Motto : Společně otevřeme radnici</b></p>
-</div>
+
 <p>E-mail</p>
 <div style="color: #000000; text-transform: none; font-size: 14px; font-style: normal; font-weight: normal; word-spacing: 0px; white-space: normal; orphans: 2; widows: 2; background-color: #ffffff; font-variant-ligatures: normal; -webkit-text-stroke-text-decoration-style: initial;" class="level4">
 <p><a style="background: url('data:image/gif;base64,R0lGODlhEAAQAPMAAE5OTu43IPBEL/JhT2Sh5aOjo4u877nV88fd9tjn+Pf6/u0XFwAAAAAAAAAAAAAAACH5BAEAAAsALAAAAAAQABAAAAREcMlJq70408K774BUKGRJJqgRLqNZJoOgigphEDiaCMHMuqcEAuEb4XAGIeJwKLpQw2XRQK1aqasCYMvtcjXgsHhciQAAOw==') no-repeat 0px 1px; margin: 0px; padding: 1px 0px 1px 16px; color: #009ddc; text-decoration: none;" class="mail" href="mailto:tomas.murnak@pirati.cz" title="tomas.murnak@pirati.cz">tomas.murnak@pirati.cz</a></p>
