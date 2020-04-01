@@ -18,6 +18,7 @@ profiles:
   facebook: 		  https://www.facebook.com/tomas.murnak
   twitter: 		  
   flickr:     		  https://www.flickr.com/search/?text=Tom%C3%A1%C5%A1%20Mur%C5%88%C3%A1k
+calendar: 3s2jcp27mm9mi89qppplj4qjqc@group.calendar.google.com
 ---
 
 Narodil jsem se v roce 1980 v Praze. Po absolvování obchodní akademie mne profesní kariéra zavedla do softwarového oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu v Anglii pracuji dodnes. O politiku se zajímám přes 10 let. Aktivně jsem se do ní zapojil v komunálních volbách do zastupitelstva městské části Prahy 13 již jako člen České pirátské strany na kandidátce Zelených v roce 2010.
