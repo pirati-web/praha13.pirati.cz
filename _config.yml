@@ -70,13 +70,14 @@ facebook:
 
 
 instagram:
-  profilePage: www.instagram.com/piratipraha13
+  profilePage: https://www.instagram.com/piratipraha13
   
 youtube:
-  profilePage: https://www.youtube.com/channel/UCvU4OQ-FgKUU9vEZ73RS9tQ/videos
+  channel: https://www.youtube.com/channel/UCvU4OQ-FgKUU9vEZ73RS9tQ/videos
 
 forum:
   page: https://forum.pirati.cz/viewforum.php?f=791&sid=b8c2fba6a7bcfd48d88121d62d0c0899
+  
 github:
   url: https://github.com/pirati-web/praha13.pirati.cz/
   branch: master
