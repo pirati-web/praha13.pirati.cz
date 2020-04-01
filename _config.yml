@@ -58,7 +58,7 @@ calendar:
   # For deployment, contact website administrator to set you env variable.
   apiKey: AIzaSyDHKIVQI4mPRoXZQv5GGunWlHjuMWGVDfE
   id: piratzetrinactky@gmail.com
-  title: "Kalendář MS Pirátů na Praze 13"
+  title: "Kalendář MS Praha 13"
   page: "https://calendar.google.com/calendar/embed?src=piratizetrinactky%40gmail.com&ctz=Europe%2FPrague"
 
 facebook:
