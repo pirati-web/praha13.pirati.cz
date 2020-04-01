@@ -17,10 +17,10 @@ main:
     name: Naši lidé
     match: lide
   - link: /program/
-    name: Priority
+    name: Program
     match: program
-    link: /komunalni-volby/
-    name: Programové priority
+  - link: /komunalni-volby/
+    name: Plnění progrmu
     match: komunalni-volby
   - link: /zapoj-se/
     name: Zapoj se
