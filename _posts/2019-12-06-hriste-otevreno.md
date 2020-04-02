@@ -6,7 +6,7 @@ layout:       post
 title:        "Dopravní hřiště bude nyní zpřístupněno i pro veřejnost"
 image:        posts/hriste.jpg
 author:       Anna Boháčová
-authorId: ana.bohacova
+
 ---
 
 Dětské dopravní hřiště, které se nachází v areálu ZŠ s RVJ Bronzová, bude po pěti letech otevřeno i pro veřejnost.
