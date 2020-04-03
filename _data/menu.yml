@@ -20,7 +20,7 @@ main:
     name: Program
     match: program
   - link: /komunalni-volby/
-    name: Plnění progrmu
+    name: Plnění programu
     match: komunalni-volby
   - link: /zapoj-se/
     name: Zapoj se
