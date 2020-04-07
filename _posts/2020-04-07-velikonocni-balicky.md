@@ -18,7 +18,7 @@ author:       Michal Polák
 
 
 
-** Piráti na Praze 13 během Velikonoc plánují udělat radost dětem ve své městské části. Společně s Potravinovou bankou Praha budou distribuovat cukrovinky do rodin samoživitelů a samoživitelek a dalších znevýhodněných Pražanů, kteří jsou nejvíce postižení epidemií nového koronaviru. K této iniciativě se připojilo také hlavní město Praha přes pirátského zastupitele a předsedu MS Piráti Praha 13 Tomáše Murňáka. Myšlenka nadchla také starostu Prahy 11 Jiřího Dohnala a pražského zastupitele a člena Pirátů na Praze 3 Martina Ardena, který domluvil cukrovinky do balíčků s potravinovou bankou.
+**Piráti na Praze 13 během Velikonoc plánují udělat radost dětem ve své městské části. Společně s Potravinovou bankou Praha budou distribuovat cukrovinky do rodin samoživitelů a samoživitelek a dalších znevýhodněných Pražanů, kteří jsou nejvíce postižení epidemií nového koronaviru. K této iniciativě se připojilo také hlavní město Praha přes pirátského zastupitele a předsedu MS Piráti Praha 13 Tomáše Murňáka. Myšlenka nadchla také starostu Prahy 11 Jiřího Dohnala a pražského zastupitele a člena Pirátů na Praze 3 Martina Ardena, který domluvil cukrovinky do balíčků s potravinovou bankou.**
 
 Každá zmíněná městská část bude mít k dispozici 100 balíčku s cukrovinkami. Praha 3 a Praha 11 mohou velikonoční překvapení rozdělovat v dárkových taškách, které poskytlo hlavní město Praha. Sladkosti budou potřebným rozvezeny během velikonočních svátků, o jejich distribuci se postarají sociální pracovníci městské části Praha 13. Pětinu balíčků rozvezou sami Piráti rodinám, které se o ně už dříve přihlásily.
 
