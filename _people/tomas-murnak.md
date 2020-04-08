@@ -40,7 +40,7 @@ Mé podání na odbor kontrolních činností pražského magistrátu nakonec v�
 
 Ve spolupráci se spolky se věnujeme i otázce <a href="http://zeleniapiratipro13.cz/vyroste-na-posledni-zeleni-mezi-stanicemi-metra-luziny-a-luka-5-vezi/">necitlivé výstavby</a>, která zde zpravidla probíhá bez vyjádření veřejnosti.
 
-V červenci 2015 jsme na ustavující schůzi založili Místní sdružení Piráti Praha 13 a já byl zvolen jeho předsedou. V komunálních volbách v roce 2018 jsem byl zvolen zastupitelem hlavního města Prahy a stal jsem se místopředsedou výboru pro územní rozvoj. Z toho důvodu jsem rezignoval na pozici zastuptele městské části Praha 13.
+V červenci 2015 jsme na ustavující schůzi založili Místní sdružení Piráti Praha 13 a já byl zvolen jeho předsedou. V komunálních volbách v roce 2018 jsem byl zvolen zastupitelem hlavního města Prahy a stal jsem se místopředsedou výboru pro územní rozvoj. Z toho důvodu jsem rezignoval na pozici zastupitele městské části Praha 13.
 
 Mezi mé zájmy patří: Informační technologie, politika, cyklistika a historická literatura.
 <p><b>Motto : Společně otevřeme radnici</b></p>
