@@ -25,6 +25,7 @@ calendar: 3s2jcp27mm9mi89qppplj4qjqc@group.calendar.google.com
 
 Narodil jsem se v roce 1980 v Praze. Po absolvování obchodní akademie mne profesní kariéra zavedla do softwarového oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu v Anglii pracuji dodnes. O politiku se zajímám přes 10 let. Aktivně jsem se do ní zapojil v komunálních volbách do zastupitelstva městské části Prahy 13 již jako člen České pirátské strany na kandidátce Zelených v roce 2010.
 
+
 Zastupitelem jsem se stal v roce 2014, kdy Piráti pod mým vedením, v koalici se Stranou Zelených pod názvem <a href="http://zeleniapiratipro13.cz/">Zelení a piráti pro 13</a>, získali ve volbách 11,19 % hlasů, což nám přineslo 5 mandátů (2 Piráti a 3 Zelení) z celkových 35.
 
 I přesto, že jsme nakonec skončili v opozici a koalice nám nedovolila zasednout v žádném výboru ani komisi, podařilo se nám prosadit část pirátského programu jako je rozklikávací rozpočet, zveřejňování rozpočtu ve strojově čitelném formátu, pozastavit neefektivní projekt <a href="http://praha.idnes.cz/praha-13-chce-nakoupit-nove-kamery-za-sto-milionu-korun-pfy-/praha-zpravy.aspx?c=A150316_2147657_praha-zpravy_nuba">kamerového systému</a> a vrátit autorská práva k pořadům TV Praha 13 do vlastnictví Městské části.
@@ -39,7 +40,7 @@ Mé podání na odbor kontrolních činností pražského magistrátu nakonec v�
 
 Ve spolupráci se spolky se věnujeme i otázce <a href="http://zeleniapiratipro13.cz/vyroste-na-posledni-zeleni-mezi-stanicemi-metra-luziny-a-luka-5-vezi/">necitlivé výstavby</a>, která zde zpravidla probíhá bez vyjádření veřejnosti.
 
-V červenci 2015 jsme na ustavující schůzi založili Místní sdružení Piráti Praha 13 a já byl zvolen jeho předsedou.
+V červenci 2015 jsme na ustavující schůzi založili Místní sdružení Piráti Praha 13 a já byl zvolen jeho předsedou. V komunálních volbách v roce 2018 jsem byl zvolen zastupitelem hlavního města Prahy a stal jsem se místopředsedou výboru pro územní rozvoj. Z toho důvodu jsem rezignoval na pozici zastuptele městské části Praha 13.
 
 Mezi mé zájmy patří: Informační technologie, politika, cyklistika a historická literatura.
 <p><b>Motto : Společně otevřeme radnici</b></p>
