@@ -21,6 +21,8 @@ profiles:
 calendar: 3s2jcp27mm9mi89qppplj4qjqc@group.calendar.google.com
 ---
 
+Zastupitel hlavního města Prahy a předseda místního sdružení Prahy 13
+
 Narodil jsem se v roce 1980 v Praze. Po absolvování obchodní akademie mne profesní kariéra zavedla do softwarového oddělení nakladatelství odborné literatury, kde s výjimkou krátkého pobytu v Anglii pracuji dodnes. O politiku se zajímám přes 10 let. Aktivně jsem se do ní zapojil v komunálních volbách do zastupitelstva městské části Prahy 13 již jako člen České pirátské strany na kandidátce Zelených v roce 2010.
 
 Zastupitelem jsem se stal v roce 2014, kdy Piráti pod mým vedením, v koalici se Stranou Zelených pod názvem <a href="http://zeleniapiratipro13.cz/">Zelení a piráti pro 13</a>, získali ve volbách 11,19 % hlasů, což nám přineslo 5 mandátů (2 Piráti a 3 Zelení) z celkových 35.
