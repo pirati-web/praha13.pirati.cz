@@ -38,9 +38,9 @@ Záznam jsem chtěl použít jako zvukovou stopu k našemu <a href="https://yout
 
 Mé podání na odbor kontrolních činností pražského magistrátu nakonec významnou měrou přispělo k vydání nové <a href="http://praha13.cz/file/BTh1/Smernice-starosty-c-2-2017.pdf">směrnice pro vydávání informací</a>, která konečně zavedla mj. i odpovědnost osob za neposkytnutí informace. Od této doby si radnice nedovolí informace odepřít nejen mne, ale z reakcí našich příznivců víme, že je sdílnější i při podání běžných občanů.
 
-Ve spolupráci se spolky se věnujeme i otázce <a href="http://zeleniapiratipro13.cz/vyroste-na-posledni-zeleni-mezi-stanicemi-metra-luziny-a-luka-5-vezi/">necitlivé výstavby</a>, která zde zpravidla probíhá bez vyjádření veřejnosti.
-
 V červenci 2015 jsme na ustavující schůzi založili Místní sdružení Piráti Praha 13 a já byl zvolen jeho předsedou. V komunálních volbách v roce 2018 jsem byl zvolen zastupitelem hlavního města Prahy a stal jsem se místopředsedou výboru pro územní rozvoj. Z toho důvodu jsem rezignoval na pozici zastuptele městské části Praha 13.
+
+Ve spolupráci se spolky se věnujeme i otázce <a href="http://zeleniapiratipro13.cz/vyroste-na-posledni-zeleni-mezi-stanicemi-metra-luziny-a-luka-5-vezi/">necitlivé výstavby</a>, která zde zpravidla probíhá bez vyjádření veřejnosti.
 
 Mezi mé zájmy patří: Informační technologie, politika, cyklistika a historická literatura.
 <p><b>Motto : Společně otevřeme radnici</b></p>
