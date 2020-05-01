@@ -8,7 +8,7 @@ author:       Michal Polák
 authorId: michal.polak
 ---
 
-Hlavní město Praha má novou metodiku pro tvorbu komunitních zahrad ve městě. Dokument vznikl v rámci implementačního plánu adaptační strategie Prahy na klimatickou změnu, k jehož vzniku se Praha zavázala před 5 lety. Právě vznik metodik je jedním z mnoha cílů této strategie.
+Hlavní město Praha má [novou metodiku](http://envis.praha-mesto.cz/publikace_zp/metodiky/metodikaMHMP_Zivezahrady2020_web.pdf) pro tvorbu komunitních zahrad ve městě. Dokument vznikl v rámci implementačního plánu adaptační strategie Prahy na klimatickou změnu, k jehož vzniku se Praha zavázala před 5 lety. Právě vznik metodik je jedním z mnoha cílů této strategie.
 
 > „Metodika je určená veřejnosti, aby věděla, na koho se má obrátit a jaké má možnosti, pokud se rozhodne pro založení komunitní zahrady,“ říká asistentka Tomáše Murňáka Michaela Beránková.
 
