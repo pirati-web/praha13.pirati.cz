@@ -25,3 +25,5 @@ Praha zároveň každoročně vyhlašuje granty v oblasti životního prostřed�
 Praha se v roce 2015 připojila k celosvětové inciativě Mayors adapt, kde se města zavázala připravit městskou strategii, jak se vypořádat se změnou klimatu. Praha pociťuje podobné problémy jako většina měst všude na světě – vzrůstající průměrné roční teploty, zvýšený výskyt extrémních meteorologických jevů, delší časová období úplně bez srážek, přívalové deště a lokální záplavy.
 
 V hlavním městě od roku 2017 vzniklo celkem 18 nových komunitních zahrad a v celé České republice se jejich celkový počet zdvojnásobil.
+
+Odkaz na metodiku zde: http://envis.praha-mesto.cz/publikace_zp/metodiky/metodikaMHMP_zakladaniKZ2020_web.pdf
