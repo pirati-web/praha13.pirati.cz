@@ -3,7 +3,6 @@ date:         2020-05-20
 category: blog
 tags:         praha
 title:        "Praha spustí projekt adopce stromů"
-"
 image:        posts/adoptuj_strom.jpg
 author:       Michaela Beránková
 authorId: michaela.berankova
