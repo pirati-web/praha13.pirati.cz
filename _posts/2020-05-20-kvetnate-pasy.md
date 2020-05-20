@@ -2,7 +2,7 @@
 date:         2020-05-20
 category: blog
 tags:         praha
-title:        "Piráti doporučili doporučuje zakládání květinových pásů a luk v Praze
+title:        "Piráti doporučili zakládání květinových pásů a luk v Praze
 "
 image:        posts/kvetnate_pasy.jpg
 author:       Michaela Beránková
