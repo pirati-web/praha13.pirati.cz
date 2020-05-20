@@ -9,7 +9,7 @@ author:       Michaela Beránková
 authorId: michaela.berankova
 ---
 
-Na úterním jednání Výboru pro infrastrukturu, veřejnou vybavenost a životní prostředí Zastupitelstva hlavního města Prahy, doporučil zastupitel Tomáš Murňák (Piráti) ve spolupráci s Evou Tylovou (Piráti), místostarostkou Prahy 12 a zároveň členkou tohoto výboru, společně s Vítem Zemanem (Praha sobě), orgánům města, městským organizacím a městským částem realizovat na svých pozemcích či pozemcích svěřených do správy tzv. květnaté pásy a květnaté louky.
+Na úterním jednání Výboru pro infrastrukturu, veřejnou vybavenost a životní prostředí Zastupitelstva hlavního města Prahy, doporučil zastupitel Tomáš Murňák (Piráti) ve spolupráci s Evou Tylovou (Piráti), místostarostkou Prahy 12 a zároveň členkou tohoto výboru, orgánům města, městským organizacím a městským částem realizovat na svých pozemcích či pozemcích svěřených do správy tzv. květnaté pásy a květnaté louky.
 
 > “Trávníkové monokultury nejsou pro životní prostředí ve městech vhodné. Nemůžou se v nich schovat drobní živočichové, včely intenzivní sečí nemají co opylovat a navíc nám z městské krajiny mizí hmyz a motýli. Byl bych rád, kdyby se nám povedlo rozšířit druhovou rozmanitost přímo ve městě a rádi bychom šli těmito opatřeními v ochraně životního prostředí příkladem,” vysvětluje Tomáš Murňák.
 
