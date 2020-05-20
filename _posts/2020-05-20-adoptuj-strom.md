@@ -4,7 +4,7 @@ category: blog
 tags:         praha
 title:        "Praha spustí projekt adopce stromů"
 "
-image:        posts/adopce_stromu.jpg
+image:        posts/adoptuj_strom.jpg
 author:       Michaela Beránková
 authorId: michaela.berankova
 ---
