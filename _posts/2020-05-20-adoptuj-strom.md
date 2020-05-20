@@ -10,7 +10,7 @@ authorId: michaela.berankova
 
 Piráti na úterním jednání Výboru pro infrastrukturu, veřejnou vybavenost a životní prostředí doporučili radě spustit projekt Adopce stromu. Projekt má za úkol zapojit veřejnost do péče o životní prostředí a najít v řadách Pražanů aktivní dobrovolníky, kteří se budou stromům ve svém okolí věnovat.
 
-> “Stromy jsou důležitou součástí životního prostředí našich domovů. Péče o ně veřejností již dlouho rezonuje, někteří občané se o stromy starají sami od sebe. Toho činnosti si vážíme a chceme tímto projektem zájem o stromy u veřejnosti podpořit. Je možno také tento projekt provázat s iniciativou Kbelík vody (kbelik-vody0.webnode.cz), která má za úkol šetřit vodou, která by jinak končila v kanalizaci. Například voda po opláchnutí ovoce nebo jakkoli jinak chemicky neznečištěna.” říká zastupitel hlavního města za Piráty Tomáš Murňák.¨
+> “Stromy jsou důležitou součástí životního prostředí našich domovů. Péče o ně veřejností již dlouho rezonuje, někteří občané se o stromy starají sami od sebe. Toho činnosti si vážíme a chceme tímto projektem zájem o stromy u veřejnosti podpořit. Je možno také tento projekt provázat s iniciativou Kbelík vody (kbelik-vody0.webnode.cz), která má za úkol šetřit vodou, která by jinak končila v kanalizaci. Například voda po opláchnutí ovoce nebo jakkoli jinak chemicky neznečištěna.” říká zastupitel hlavního města za Piráty Tomáš Murňák.
 
 Dobrovolník, který bude chtít adoptovat strom, pouze pošle e-mailem svou žádost na příslušnou adresu. Obratem obdrží elektronický certifikát o adopci stromu. Tato data budou také zanesena do anonymní pasportizace stromů, kterou připravuje Technická správa komunikací. Piráti usilují o zveřejnění určitých dat veřejnosti na platformě GISové aplikace.
 
