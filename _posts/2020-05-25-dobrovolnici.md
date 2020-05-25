@@ -1,5 +1,5 @@
 ---
-date:         2020-05-20
+date:         2020-05-25
 category: blog
 tags:         praha
 title:        "Piráti z Prahy 13 jako dobrovolníci v době COVID-19"
