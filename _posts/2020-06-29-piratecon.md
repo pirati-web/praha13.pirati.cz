@@ -1,10 +1,10 @@
 ---
 date:         2020-06-29
 category: blog
-tags:         praha13
-title:        "Piráti představili Metodiku zakládání komunitních zahradna konferenci PirateCon"
+tags:         praha
+title:        "Piráti představili Metodiku zakládání komunitních zahrad na konferenci PirateCon"
 image:        posts/piratecon.jpg
-author:       michaela.berankova
+author:       Michaela Beránková
 ---
 V sobotu proběhla v pražském Pirátském centru konference PirateCon věnovaná komunitním zahradám. Byla zde představena nová metodika k zakládání komunitních zahrad, kterou vydala Kokoza pro hlavní město Prahu, a která je součástí Implementačního plánu adaptační strategie na klimatickou změnu. Metodika určena široké veřejnosti má usnadnit zakládat komunitní zahrady a zodpovědět nejčastější otázky, které se v rámci koordinace komunitních zahrad vyskytují. 
 
