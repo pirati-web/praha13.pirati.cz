@@ -3,7 +3,7 @@ date:         2020-08-04
 category: blog
 tags:         praha
 title:        "Stromořadí v Praze si kvůli klimatickým změnám žádají změnu způsobu výsadby a větší péči o dřeviny"
-image:        posts/stromoradi.png
+image:        posts/stromoradi.jpg
 author:       Michaela Beránková
 ---
 Čtvrtina stromů v pražských ulicích neplní svou ekologickou funkci. To ukázala Analýza stromořadí, kterou si nechal vypracovat Institut plánování a rozvoje a má být podkladem pro tvorbu nové Metodiky pro plánování, výsadbu a péči o uliční stromořadí jako významného prvku modrozelené infrastruktury pro adaptaci na změnu klimatu, která vyjde na konci tohoto roku.
