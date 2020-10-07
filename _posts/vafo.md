@@ -1,5 +1,5 @@
 ---
-date:         2020-08-04
+date:         2020-08-30
 category: blog
 tags:         praha
 title:        "Zlepšení zápachu z výrobny krmiv VAFO: Úspěch občanské iniciativy Praha pro život a Pirátů"
