@@ -1,0 +1,16 @@
+---
+date:         2020-09-20
+category: blog
+tags:         praha
+title:        "Odpovědi pana starosty na interpelace zastupitelů? Arogance a alibismus. 
+"
+image:        posts/logo.png
+author:       Zuzana Drhová
+---
+Praze 13 se nedá upřít, že je úspěšná v čerpání různých dotací, zejména s podporou evropských zdrojů. Ani jako zastupitelé o tom mnoho nevíme a je otázkou, k čemu takové projekty jsou. Aktuálně se realizují dva projekty podpořené z Operačního programu Zaměstnanost. Jedním je „Cesta k dalšímu rozvoji MČ Praha 13“ s celkovými náklady 3 355 105,00 Kč, za které se má připravit mimo jiné Koncepce bezbariérovosti Prahy 13 či Komunikační plán Prahy 13.  Projekt měl skončit v srpnu, nově v prosinci 2020. Bývá běžné, že se na takovýchto dokumentech podílí i veřejnost, nemluvě o zastupitelích. Ne tak na Praze 13. V odpovědi pana starosty na moji interpelaci v červnu 2020, zda bude zastupitelstvo seznámeno s výstupy projektu, jsem se dozvěděla, že orgánem zastupitelstva určeným k projednávání projektu je Výbor pro evropské fondy a informatiku, jehož jednání je neveřejné (na základě členy výboru schváleného jednacího řádu), a tudíž ani veřejnost ani zastupitelé našeho klubu se ho nemohou účastnit.  Druhým projektem je „Plán udržitelné městské mobility MČ Praha 13“ s celkovými náklady 3 147 446,50 Kč, který začínal v březnu a který má ve spolupráci s veřejností najít možnosti udržitelné městské dopravní obsluhy Prahy 13, včetně tolik citlivého parkování. Na to, jak a kdy se přislíbená veřejná projednání budou konat, pan starosta neodpověděl a vystačil si s konstatováním, že projednání s odbornou i laickou veřejností proběhnou. 
+Druhá červnová interpelace se týkala možnosti zachovat parkovací místa pro stávající rezidenty ulice Husníkova a okolí v souvislosti s výstavbou domu Nad Jezerem. Městská část tento projekt původně v roce 2007 podpořila, včetně potřebného převodu pozemků. Později v roce 2014 sice Rada městské části svoje usnesení revokovala, ale to už měl projekt územní rozhodnutí, jehož součástí byla podmínka zajistit náhradu za 41 zrušených parkovací stání, kterou městská část ex post také podpořila. Zda ale byla tato podmínka zapracována v kupní smlouvě, kterou připravoval MHMP, se už pan starosta ani nikdo další z úřadu nezajímal, natož aby to po Magistrátu vymáhal. Přitom je běžné, že když městským částem opravdu o něco jde, vědí, že musí s Magistrátem být v kontaktu a o věcech dále jednat. Takto je to pouhý alibismus, se kterým se v oblasti nové výstavby na Praze 13 často setkáváme. 
+Že pan starosta dokáže být akční, ukázal rychle zorganizovanou kampaní, kterou reagoval na ocenění Prahy 13 v soutěži ke společenské odpovědnosti (CSR - Corporate Social Reponsibility), kterou zajišťuje Ministerstvo průmyslu a obchodu. Je třeba dodat, že významným podkladem pro ocenění je sebehodnocení MČ. Dle odpovědi na dubnovou interpelaci neváhala městská část vydat na billboardy a další upoutávky ve veřejném prostoru 597 850,00 Kč bez DPH z rozpočtu starosty, a to přesto, že ocenění míří zejména k úředníkům městské části, se kterými i dle svých opakovaných vyjádření nemá pan starosta jako zástupce samosprávy moc společného a těžko jejich rozhodnutí a výkon ovlivňuje.      
+
+ 
+Zuzana Drhová, zastupitelka  
+Více na https://www.praha13.cz/Interpelace.
