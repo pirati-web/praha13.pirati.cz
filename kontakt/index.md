@@ -38,4 +38,3 @@ Díky internetu a sociálním sítím je naštěstí komunikace jednodušší, n
 
 Specifickým případem jsou potom volby. To, že dlouhodobě odvádíte dobrou práci, v rámci které důsledně naplňujete svá předchozí prohlášení, je bohužel jen zlomek předpokladu úspěchu. Dobrým (či možná spíše špatným) příkladem toho, že zásadním prostředkem je především dostatek kapitálu, je politické strana Andreje Babiše. ANO mělo ještě pár měsíců před svými prvními volbami v roce 2013 preference 0,5 %, přičemž po své masivní kampani nakonec získalo téměř 20 %.
 
-Pokud je Vám naše aktivita sympatická a rádi byste nás v ní podpořili i finančně, můžete tak učinit příspěvkem na transparentní účet České Pirátské strany a ke svému daru přidat vzkaz "Pirátům z Prahy 13". Viz též <a href="https://dary.pirati.cz/" target="_blank">https://dary.pirati.cz/</a>
