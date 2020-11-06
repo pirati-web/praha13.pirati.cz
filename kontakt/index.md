@@ -15,7 +15,7 @@ contentSize: default
 
 Pro peníze to rozhodně neděláme. Naší hlavní motivací je snaha o zásadní změnu úrovně i vnímání komunální politiky a samozřejmě také snaha zvelebit místo, kde sami od dětství žijeme. Naše aktivita je ryze dobrovolnická, pokud nepočítáme zákonnou měsíční odměnu pěti zastupitelům ve výši 1500,- Kč. Naší hlavní investicí jsou desítky hodin osobního času, který mimo zaměstnání a rodinu komunální politice věnujeme.
 
-Pokud byste nás chtěli přece jen podpořit, navštivte <a href="ps://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha" target="_blank" rel="noopener">tento odkaz</a>.
+Pokud byste nás chtěli přece jen podpořit, navštivte <a href="https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha" target="_blank" rel="noopener">tento odkaz</a>.
 
 Peníze využijeme na právní služby, analýzy, průzkumy, posudky a studie. Na stránce jen musíte vybrat v kolonce "JINÝ ÚČEL" MS Praha 13. Vámi darované peníze přijdou rovnou k nám. 
 
