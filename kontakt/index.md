@@ -13,11 +13,14 @@ contentSize: default
   <h1 class="t-h2-alt"> Podpořte piráty na Třináctce </h1>
 </div>
 
-Pro peníze to rozhodně neděláme. Naší hlavní motivací je snaha o zásadní změnu úrovně i vnímání komunální politiky a samozřejmě také snaha zvelebit místo, kde sami od dětství žijeme. Naše aktivita je ryze dobrovolnická, pokud nepočítáme zákonnou měsíční odměnu dvěma zastupitelům ve výši 1500,- Kč. Naší hlavní investicí jsou desítky hodin osobního času, který mimo zaměstnání a rodinu komunální politice věnujeme.
+Pro peníze to rozhodně neděláme. Naší hlavní motivací je snaha o zásadní změnu úrovně i vnímání komunální politiky a samozřejmě také snaha zvelebit místo, kde sami od dětství žijeme. Naše aktivita je ryze dobrovolnická, pokud nepočítáme zákonnou měsíční odměnu pěti zastupitelům ve výši 1500,- Kč. Naší hlavní investicí jsou desítky hodin osobního času, který mimo zaměstnání a rodinu komunální politice věnujeme.
 
-Jakkoliv nám spíše než peníze schází další nadšenci jako jsme my, jsou v zásadě 2 oblasti, ve kterých by finanční prostředky pomohli naše počínání výrazně zefektivnit. Konzultace, průzkumy, posudky
+Pokud byste nás chtěli přece jen podpořit, navštivte tento odkaz https://dary.pirati.cz/podpor-kraj/praha/adresne-dary-pro-ks-praha
+Peníze využijeme na právní služby, analýzy, průzkumy, posudky a studie. Na stránce jen musíte vybrat v kolonce "JINÝ ÚČEL" MS Praha 13. Vámi darované peníze přijdou rovnou k nám. 
 
-V rámci různých kauz, které na Praze 13 řešíme, se často dostáváme do situace, jejímž optimálním řešením by byla odborná konzultace, případně nezávislý průzkum či posudek. Nejčastěji nám chybí odborný pohled právní, ale například v souvislosti s výstavbou jsme v minulosti často postrádaly nezávislá odborná stanoviska z oblasti dopravy, ekologie, akustiky...
+Jakkoliv nám spíše než peníze schází další nadšenci jako jsme my. A to nejen z řad široké laické veřejnosti, ale i odborníci.
+
+V rámci různých kauz, které na Praze 13 řešíme, se často dostáváme do situace, jejímž optimálním řešením by byla odborná konzultace, případně nezávislý průzkum či posudek. Nejčastěji nám chybí odborný pohled právní, ale například v souvislosti s výstavbou jsme v minulosti často postrádali nezávislá odborná stanoviska z oblasti dopravy, ekologie, akustiky...
 
 Jako opoziční strana bohužel nemůžeme využít existujícího odborného zázemí úřadu městské části. Pokud je to jen trochu možné, pokoušíme se proto tyto konzultace zajišťovat u kompetentních kolegů v rámci České pirátské strany. Nicméně i oni mají svoji agendu a i oni dělají politiku na dobrovolnické úrovni, takže priority se prostě občas nepotkají.
 
