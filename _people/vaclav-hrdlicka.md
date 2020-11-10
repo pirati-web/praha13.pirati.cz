@@ -19,6 +19,10 @@ profiles:
   flickr:		  
 ---
 
-Jmenuji se Vašek Hrdlička, narodil jsem se v roce 1980 v Praze, kde vyjma 5 let strávených studiem v Hradci Králové, žiji celý život. Od svých 10 let bydlím na Lužinách, a jakožto absolvent Gymnázia Jaroslava Heyrovského jsem na Třináctce strávil i podstatnou část svého života středoškolského.
+Narodil jsem se v roce 1980 v Praze, kde vyjma 5 let strávených studiem v Hradci Králové, žiju celý svůj život. Od svých deseti let pak na Praze 13, konkrétně na Lužinách.
 
-Vzděláním jsem sociální pedagog, ale vyjma příležitostné dobrovolnické činnosti jsem se po skončení studia pracovně pohyboval mimo tento obor. Konkrétně mne posledních cca deset let živí telekomunikace, a to jeden z velkých telekomunikačních operátorů, kde pracuji na pozici na rozhraní business a technology.
+Jsem absolvent pedagogické fakulty, ale vyjma příležitostné dobrovolnické činnosti jsem se po skončení studia pracovně pohyboval mimo obor. Posledních několit let pracuji jako manažer pro jednoho z velkých telekomunikačních operátorů.
+
+K Pirátům jsem se připojil v roce 2016, přičemž motivací pro mne byla (a stále je) snaha aktivně ovlivňovat dění ve svém sousedství a městské části. Od roku 2018 to podle svého nejlepšího vědomí a svědomí činím jako (opoziční) zastupitel.
+
+Při tom všem se pak snažím příliš nešidit o svůj čas a energii svoji ženu, dceru a syna.
