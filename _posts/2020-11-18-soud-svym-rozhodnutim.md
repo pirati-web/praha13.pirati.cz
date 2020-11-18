@@ -4,7 +4,7 @@ category:     blog
 tags:         praha13
 layout:       post
 title:        "Soud svým rozhodnutím prolomil dlouholeté cenzurování opozice na Praze 13"
-image:        posts/soud.jpg
+image:        posts/stop.jpg
 author:       vaclav.hrdlicka
 ---
 Praha 18.11.2020 - Odvolací Městský soud v Praze potvrdil dřívější rozhodnutí obvodního soudu pro Prahu 5, které přikazuje Praze 13 otisknout v radničním periodiku STOP článek opozičních zastupitelů Václava Hrdličky (Piráti) a Zuzany Drhové (Zelení). Článek, který měl čtenáře informovat o dvou zásadních rozhodnutích vládnoucí koalice, a to jednak o vyloučení největšího opozičního klubu Zelení a Piráti pro 13 ze všech výborů zastupitelstva, a jednak o neobvyklém uzavření výborů pro veřejnost, předali opoziční zastupitelé Hrdlička s Drhovou k otištění již v průběhu května 2019.  
