@@ -3,7 +3,7 @@ date:         2020-11-12
 category: blog
 tags:         praha
 title:        "Nová vyhláška zakáže na Silvestra pyrotechniku u vody i v přírodním parku"
-image:        posts/zvirata-01.jpg
+image:        posts/zvirata-01.JPG
 author:       Michaela Beránková
 ---
 Pražští zastupitelé dnes na svém zasedání schválili vyhlášku z dílny radní Kordové-Marvanové o regulaci používání zábavní pyrotechniky. S sebou přináší i úplný zákaz vypouštění lampionů štěstí. Vyhláška vstoupí v platnost již 1. prosince tohoto roku a bude tedy platit již letos na Silvestra.
