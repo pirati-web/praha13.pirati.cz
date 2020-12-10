@@ -4,7 +4,7 @@ category:     blog
 tags:         praha13
 layout:       post
 title:        "Zastupitelé Prahy 13 mají nově možnost hlasovat i online"
-image:        posts/petr.jpg
+image:        posts/Petr.jpg
 author:      Anna Boháčová
 ---
 Zastupitelstvo městské části Prahy 13 schválilo návrh zastupitele  klubu Zelení a Piráti pro 13 Petra Koláře o změnách Jednacího řádu, které nově umožňují jednání Zastupitelstva a jeho výborů distančním způsobem prostřednictvím videokonference.
