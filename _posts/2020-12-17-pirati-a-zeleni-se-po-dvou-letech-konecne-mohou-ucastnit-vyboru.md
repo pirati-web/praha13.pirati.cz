@@ -7,9 +7,9 @@ image:        posts/zastupitelstvo.jpg
 author:       Tomáš Krejčí
 ---
 
-Zastupitelský klub Zelených a Pirátů pro 13 a s nimi i demokratické principy slaví úspěch! Po dlouholetém boji, kdy byl Zeleným a Pirátům odpírán přístup do radničních výborů, se nakonec ledy prolomily a zastupitelstvo jednomyslně schválilo dovolbu členů opozičního uskupení do jednotlivých výborů. 
+Zastupitelský klub Zelených a Pirátů pro 13 a s nimi i demokratické principy slaví úspěch! Po dlouholetém boji, kdy byl Zeleným a Pirátům odpírán přístup do radničních výborů, se nakonec ledy prolomily a zastupitelstvo jednomyslně schválilo dovolbu členů opozičního uskupení do jednotlivých výborů. Zelení a Piráti dlouhodobě uzavření výborů jen pro zastupitele vládnoucí koalice (ODS+ANO+TOP09+STAN+KDU-ČSL) kritizovali, zejména z toho důvodu, že neměli stejný přístup k informacím a návrhům, o nichž pak měli v rámci zastupitelstva rozhodovat.
 
-> Zelení a Piráti dlouhodobě uzavření výborů jen pro zastupitele vládnoucí koalice (ODS+ANO+TOP09+STAN+KDU-ČSL) kritizovali, zejména z toho důvodu, že neměli stejný přístup k informacím a návrhům, o nichž pak měli v rámci zastupitelstva rozhodovat.
+> Předseda zastupitelského klubu Václav Hrdlička k tomu říká: „Otevření výborů pro opoziční zastupitele je pro občany Prahy 13 jednoznačně dobrou zprávou. Je přirozené, že má opozice na spoustu věcí odlišné názory než vedení radnice. To by však nemělo být důvodem pro její vyloučení z dialogu, spíše naopak. Jako volení zástupci bychom se měli snažit společně hledat taková řešení, která budou vyhovovat co nejvíce našim spoluobčanům. Ať už ve volbách dali svůj hlas komukoliv.“
 
 Další ožehavé téma, o kterém zastupitelstvo rozhodovalo, byl záměr vládnoucí koalice přijmout Memorandum o spolupráci s dalšími MČ (například Praha 11, Praha 14 či Praha 18), ve věci regulace provozování hazardních her. Snahou je zpochybnit aktuální městskou vyhlášku regulující herní automat na území hlavního města Prahy a dožadovat se větších pravomocí MČ při schvalování městských vyhlášek stížností u Ústavního soudu a dožadovat se větších pravomocí MČ při schvalování městských vyhlášek stížností u Ústavního soudu“. Přes nesouhlas 11 členného klubu Zelených a Pirátů tento návrh zastupitelstvem Prahy 13  prošel těsnou většinou.
 
