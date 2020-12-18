@@ -5,6 +5,7 @@ tags:         praha13
 title:        "Piráti a Zelení se po dvou letech konečně mohou účastnit výborů "
 image:        posts/zastupitelstvo.jpg
 author:       Tomáš Krejčí
+---
 
 Zastupitelský klub Zelených a Pirátů pro 13 a s nimi i demokratické principy slaví úspěch! Po dlouholetém boji, kdy byl Zeleným a Pirátům odpírán přístup do radničních výborů, se nakonec ledy prolomily a zastupitelstvo jednomyslně schválilo dovolbu členů opozičního uskupení do jednotlivých výborů. 
 
