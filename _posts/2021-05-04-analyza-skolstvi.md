@@ -3,7 +3,7 @@ date:         2021-05-04
 category: blog
 tags:         praha
 title:        "Plýtvání veřejnými penězi: Čtvrt milionu za nekvalitní analýzu"
-image:        posts/analyza-skostvi.jpg
+image:        posts/analyza-skolstvi.jpg
 author:       Petr Kolář
 authorId: petr.kolar
 ---
