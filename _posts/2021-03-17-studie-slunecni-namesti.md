@@ -2,7 +2,7 @@
 date:         2021-03-17
 category: blog
 tags:         praha
-title:        "Zelení a Piráti k studii pro Sluneční náměstí"
+title:        "Zelení a Piráti ke studii pro Sluneční náměstí"
 image:        posts/studie-slunecni-namesti.jpg
 author:       Václav Hrdlička
 authorId: vaclav.hrdlicka
