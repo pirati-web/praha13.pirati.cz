@@ -17,3 +17,12 @@ Studii prosím připomínkujte skrze tento dotazník připravený IPRem (https:/
 
 Podporujeme revitalizaci parku před radnicí a vznik základní umělecké školy, ale o zbytku návrhu směrem do parku je potřeba jednat.
 O dalším vývoji vás budeme informovat.
+
+
+EDIT: Sběr podnětů veřejnosti prodloužen do 30.dubna.
+Připomínáme, že dnes je poslední den, kdy je možné vyjádřit své připomínky k urbanisticko architektonické studii možné budoucí podoby Slunečního náměstí. Tu v minulých týdnech představil Institut plánování a rozvoje hl.m. města Prahy.
+Studie zpracovává území, na němž se nachází jak pozemky soukromého investora, tak městské části. Na těch "obecních" je navrhovaná nová budova Základní umělecké školy a 4 nižší budovy pro výstavbu městských bytů. Na soukromých pozemcích je plánovaná komerční výstavba v rozsahu umožněném aktuálním územním plánem.
+V odkazovaném dotazníku je možné jak vyjádřit stanovisko k jednotlivým funkčním prvkům, tak podat jakýkoliv konkrétní návrhy k zeleni, vybavenosti, výstavbě aj.
+Najděte si prosím chvilku prosím
+Odkaz na dotazník: 
+https://docs.google.com/.../1FAIpQLScw.../formResponse
