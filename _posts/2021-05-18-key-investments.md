@@ -3,6 +3,7 @@ date:         2021-05-18
 category: blog
 tags:         praha
 title:        "Praha 13 vs. KEY Investments aneb Jak NEinvestovat obecní peníze"
+image:        matej_outrata_key_investments.jpg
 author:       JUDr. Matěj Outrata
 ---
 
